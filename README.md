@@ -1,2 +1,2 @@
 # Landing-Page-YouTube-
-Responsive, pixel-perfect recreation of YouTube with SASS (for chrome)
+Responsive, pixel-perfect recreation of YouTube with SCSS (for chrome)
